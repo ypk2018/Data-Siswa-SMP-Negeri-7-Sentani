@@ -1,0 +1,6 @@
+{
+  "name": "Portal Data Peserta Didik — SMP Negeri 7 Sentani",
+  "description": "Sistem sortir, pengelompokan, tabel, dan ekspor format titik koma (;) data peserta didik SMP Negeri 7 Sentani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
